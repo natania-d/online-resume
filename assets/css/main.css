@@ -8,7 +8,7 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: "Lato";
+    font-family: "Lato", "Arial Narrow";
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -29,7 +29,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Oswald";
+    font-family: "Oswald", Helvetica;
     font-weight: 300;
     color: #333;
 }
